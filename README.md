@@ -20,9 +20,9 @@ In the globalization era, cryptography becomes more popular and powerful; in fac
 - [Video](https://www.youtube.com/watch?v=F3zzNa42-tQ)
 - [Blog](https://bithin.wordpress.com/2012/02/22/simple-explanation-for-elliptic-curve-cryptography-ecc/)
 
-###### Guide
+##### Guide
 
-Under Guidance of Professor [Dr. Sudipta Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=368)
+  - Under Guidance of Professor [Dr. Sudipta Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=368)
 
 # Directory structure
 
