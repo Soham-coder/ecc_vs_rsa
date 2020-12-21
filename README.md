@@ -23,7 +23,7 @@ In the globalization era, cryptography becomes more popular and powerful; in fac
 ##### Guide
 
   - Under Guidance of Professor [Dr. Sudipta Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=368) 
-  - PhD research scholar [Shri Prabhat Panda](prabhatjdvu@gmail.com)
+  - PhD research scholar [Shri Prabhat Panda](mailto:prabhatjdvu@gmail.com)
 
 
 # Directory structure
