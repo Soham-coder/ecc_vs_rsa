@@ -9,6 +9,10 @@ In the globalization era, cryptography becomes more popular and powerful; in fac
 
   -Elliptic Curve Cryptography (ECC) was discovered in 1985 by Victor Miller (IBM) and Neil Koblitz as an alternative mechanism for implementing public-key cryptography. Public-key algorithms create a mechanism for sharing keys among large numbers of participants or entities in a complex information system. ECC is based on discrete logarithms that are much more difficult to challenge at equivalent key lengths. The security of a public key system using elliptic curves is based on difficulty of computing discrete algorithms in the group of points on an elliptic curve defined over a finite field. Elliptic curve equation over a finite field Fp is y2 =( x3 + ax + b) mod P Here, y, x, a and b are all within Fp, and p is a integers modulo p. a and b is the coefficients which determine what points will be on the curve. Curve coefficients have to fulfill one condition that is: 4a3 + 27b2 ≠ 0 This condition guarantees that the curve will not contain any singularities.
 ```
+##### Goals
+  -Implementation of RSA and ECC data encryption techniques in MATLAB environment and to improve their performance metrics such as speed, code complexity and run time.
+  -MATLAB has difficulty in working with large prime number computation. So we are trying to improve computation time by means of  Variable Precision Integers(VPI) and other methods.
+
 
 # Directory structure
 
