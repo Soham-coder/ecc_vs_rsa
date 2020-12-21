@@ -22,11 +22,11 @@ In the globalization era, cryptography becomes more popular and powerful; in fac
      - [ECC point encryption function.pdf](bibliography/ECC%20point%20encryption%20function.pdf)
      - [ECDLP.pdf](bibliography/ECDLP.pdf)
      - [Elliptic Curve Cryptography\- an implementation guide.pdf](bibliography/Elliptic%20Curve%20Cryptography-%20an%20implementation%20guide.pdf)
-     - __Newer Aims__
-       - [05931464.pdf](bibliography/Newer Aims/05931464.pdf)
-       - [07335349.pdf](bibliography/Newer Aims/07335349.pdf)
-       - [07401749.pdf](bibliography/Newer Aims/07401749.pdf)
-       - [10.1007\_2F3\-540\-44499\-8\_1.pdf](bibliography/Newer Aims/10.1007_2F3-540-44499-8_1.pdf)
+     - __Newer_Aims__
+       - [05931464.pdf](bibliography/Newer_Aims/05931464.pdf)
+       - [07335349.pdf](bibliography/Newer_Aims/07335349.pdf)
+       - [07401749.pdf](bibliography/Newer_Aims/07401749.pdf)
+       - [10.1007\_2F3\-540\-44499\-8\_1.pdf](bibliography/Newer_Aims/10.1007_2F3-540-44499-8_1.pdf)
    - [convolution\_presentation.pptx](convolution_presentation.pptx)
    - __ecc__
      - [ECADP.m](ecc/ECADP.m)
