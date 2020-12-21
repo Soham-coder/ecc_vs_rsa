@@ -184,4 +184,8 @@ In the globalization era, cryptography becomes more popular and powerful; in fac
 </p>
 </details>
 
+# Instructions to run
+```diff
+Open the files of ./ecc folder in matlab and run the main.m
+```
 
