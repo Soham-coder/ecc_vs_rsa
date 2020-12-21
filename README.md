@@ -198,3 +198,8 @@ Open the files of ./ecc folder in matlab and run the main.m
 # Papier presentation
 [Ppt](convolution_presentation.pptx)
 
+# Prizes
+
+  - Won 2nd prize in the event PAPIER conducted by Convolution JU Electrical Engg., department sponsored by IET & IEEE Signal Processing Society
+  - Rs.3000/- cash prize
+
