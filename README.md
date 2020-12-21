@@ -22,7 +22,9 @@ In the globalization era, cryptography becomes more popular and powerful; in fac
 
 ##### Guide
 
-  - Under Guidance of Professor [Dr. Sudipta Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=368)
+  - Under Guidance of Professor [Dr. Sudipta Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=368) 
+  - PhD research scholar [Shri Prabhat Panda](prabhatjdvu@gmail.com)
+
 
 # Directory structure
 
@@ -192,4 +194,7 @@ In the globalization era, cryptography becomes more popular and powerful; in fac
 ```diff
 Open the files of ./ecc folder in matlab and run the main.m
 ```
+
+# Papier presentation
+[Ppt](convolution_presentation.pptx)
 
