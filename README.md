@@ -2,7 +2,8 @@
 
 # Directory structure
 
-
+<details><summary><tt> Directory structure </tt></summary>
+<p>
 - .
    - [README.md](README.md)
    - __bibliography__
@@ -157,4 +158,8 @@
        - [quotient.m](vpi/VariablePrecisionIntegers/quotient.m)
        - [subfactorial.m](vpi/VariablePrecisionIntegers/subfactorial.m)
        - [totient.m](vpi/VariablePrecisionIntegers/totient.m)
+
+</p>
+</details>
+
 
