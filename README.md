@@ -203,3 +203,17 @@ Open the files of ./ecc folder in matlab and run the main.m
   - Won 2nd prize in the event **PAPIER(Convolution)** conducted by JU Electrical Engg., department sponsored by IET & IEEE Signal Processing Society
   - Rs.3000/- cash prize
 
+
+<p align="ceremony pics">
+  <img src="prize_ceremony_pic/IMG-20180307-WA0018.jpg?raw=true" alt="ceremony pic1"/>
+  <img src="prize_ceremony_pic/IMG-20180307-WA0019.jpg?raw=true" alt="ceremony pic2"/>
+</p>
+
+<!---
+prize_ceremony_pic/IMG-20180307-WA0017.jpg)
+     - [IMG\-20180307\-WA0018.jpg](prize_ceremony_pic/IMG-20180307-WA0018.jpg)
+     - [IMG\-20180307\-WA0019.jpg](prize_ceremony_pic/IMG-20180307-WA0019.jpg)
+     - [IMG\-20180307\-WA0020.jpg](prize_ceremony_pic/IMG-20180307-WA0020.jpg)
+     - [IMG\-20180307\-WA0021.jpg](prize_ceremony_pic/IMG-20180307-WA0021.jpg)
+     - [WhatsApp Image 2018\-09\-03 at 3.28.30 PM.jpeg](prize_ceremony_pic/WhatsApp%20Image%202018-09-03%20at%203.28.30%20PM.jpeg)
+     --->
