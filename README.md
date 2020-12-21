@@ -200,6 +200,6 @@ Open the files of ./ecc folder in matlab and run the main.m
 
 # Prizes
 
-  - Won 2nd prize in the event PAPIER conducted by Convolution JU Electrical Engg., department sponsored by IET & IEEE Signal Processing Society
+  - Won 2nd prize in the event **PAPIER(Convolution)** conducted by JU Electrical Engg., department sponsored by IET & IEEE Signal Processing Society
   - Rs.3000/- cash prize
 
