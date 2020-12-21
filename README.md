@@ -192,7 +192,8 @@ In the globalization era, cryptography becomes more popular and powerful; in fac
 
 # Instructions to run
 ```diff
-Open the files of ./ecc folder in matlab and run the main.m
+  + ecc : Open the files of ./ecc folder in matlab and run the main.m
+  + rsa : Open the files of ./rsa/RSA/ folder in matlab and run the rsa.m
 ```
 
 # Papier presentation
