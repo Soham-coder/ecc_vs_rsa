@@ -15,6 +15,10 @@ In the globalization era, cryptography becomes more popular and powerful; in fac
 
     - MATLAB has difficulty in working with large prime number computation. So we are trying to improve computation time by means of  Variable Precision Integers(VPI) and other methods.
 
+##### Bibliography
+- [Reference](bibliography)
+- [Video](https://www.youtube.com/watch?v=F3zzNa42-tQ)
+- [Blog](https://bithin.wordpress.com/2012/02/22/simple-explanation-for-elliptic-curve-cryptography-ecc/)
 
 # Directory structure
 
