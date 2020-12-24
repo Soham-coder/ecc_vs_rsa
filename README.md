@@ -213,7 +213,8 @@ In the globalization era, cryptography becomes more popular and powerful; in fac
   <img src="prize_ceremony_pic/IMG-20180307-WA0019.jpg?raw=true" alt="ceremony pic3"/>
   <img src="prize_ceremony_pic/IMG-20180307-WA0020.jpg?raw=true" alt="ceremony pic4"/>
   <img src="prize_ceremony_pic/IMG-20180307-WA0021.jpg?raw=true" alt="ceremony pic5"/>
-  <img src="prize_ceremony_pic/WhatsApp%20Image%202018-09-03%20at%203.28.30%20PM.jpeg?raw=true" alt="ceremony pic6"/>
+  <img src="prize_ceremony_pic/20201224_223653.jpg?raw=true" alt="ceremony pic6"/>
+  <img src="prize_ceremony_pic/WhatsApp%20Image%202018-09-03%20at%203.28.30%20PM.jpeg?raw=true" alt="ceremony pic7"/>
 </p>
 
 </p>
